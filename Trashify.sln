@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trashify.GoogleApiClient", "Trashify\Trashify.GoogleApiClient.csproj", "{AD62216D-1D39-424A-83CF-CEDB8AD6164B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD62216D-1D39-424A-83CF-CEDB8AD6164B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD62216D-1D39-424A-83CF-CEDB8AD6164B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD62216D-1D39-424A-83CF-CEDB8AD6164B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD62216D-1D39-424A-83CF-CEDB8AD6164B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {088A0AE2-EADE-411A-BF6D-32EC073A2585}
+	EndGlobalSection
+EndGlobal
